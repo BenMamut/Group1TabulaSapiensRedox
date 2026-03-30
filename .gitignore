@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Preliminary/archived results (not for publication)
+results/_archive/
+
+# Large per-tissue parquet intermediates (reproducible from pipeline)
+results/tabulasapiens_batch_pseudobulk_full/
+
+# PDF duplicates of plots (PNGs are sufficient for GitHub)
+results/**/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# bios1208 scratch folder
+bios1208/

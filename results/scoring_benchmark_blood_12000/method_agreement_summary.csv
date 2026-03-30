@@ -1,0 +1,4 @@
+method_a,method_b,mean_spearman,mean_pearson
+aucell_style,bg_adjusted,0.8313504928567644,0.8401570605508907
+mean,aucell_style,0.5327831413156223,0.5356323705160349
+mean,bg_adjusted,0.6257893259826849,0.6355510947000536

@@ -1,0 +1,22 @@
+cell_type,mean_spearman,n_pairs
+"naive thymus-derived CD4-positive, alpha-beta T cell",0.5972222222222222,36
+B cell,0.5512820512820513,156
+erythrocyte,0.44999999999999996,12
+pericyte,0.44999999999999996,48
+BEST4+ enterocyte,0.3999999999999999,12
+basal cell,0.3708333333333333,24
+neutrophil,0.3453703703703703,108
+smooth muscle cell,0.3260416666666666,96
+intermediate monocyte,0.31666666666666665,12
+natural killer cell,0.2807359307359307,132
+"CD8-positive, alpha-beta T cell",0.16534632034632032,660
+"CD4-positive, alpha-beta T cell",0.13700828157349898,552
+macrophage,0.12117794486215538,456
+fibroblast,0.1143939393939394,132
+classical monocyte,0.0607142857142857,84
+capillary endothelial cell,0.033333333333333326,24
+endothelial cell,0.020238095238095236,84
+monocyte,-0.011309523809523823,120
+mature NK T cell,-0.02380952380952382,12
+plasma cell,-0.1392857142857143,60
+vein endothelial cell,-0.2583333333333333,24
